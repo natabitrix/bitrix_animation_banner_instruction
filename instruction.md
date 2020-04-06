@@ -14,6 +14,6 @@
 [Пример кода "после"](https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_after.txt)<br>
 
 <br>
-[Сравнение изменения кода (слева "до", справа "после")]
+[Сравнение изменения кода (слева "до", справа "после")](https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_before.txt)
 (https://github.com/natabitrix/ustinka_banner_instruction/commit/9b090ab77ff293bef007e7dd847f330384702669?diff=split)
 
