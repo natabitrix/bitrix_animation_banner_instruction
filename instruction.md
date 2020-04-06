@@ -16,3 +16,4 @@
 <br>
 [Сравнение изменения кода (слева "до", справа "после")]
 (https://github.com/natabitrix/ustinka_banner_instruction/commit/9b090ab77ff293bef007e7dd847f330384702669?diff=split)
+
