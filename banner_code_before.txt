@@ -36,7 +36,7 @@ function handleComplete(evt,comp) {
 	}
 	exportRoot = new lib.desktop();
 	stage = new lib.Stage(canvas);	
-	//Registers the "tick" event listener.
+	//Registers the "tick" event listener
 	fnStartAnimation = function() {
 		stage.addChild(exportRoot);
 		createjs.Ticker.setFPS(lib.properties.fps);
