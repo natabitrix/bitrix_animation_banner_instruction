@@ -5,3 +5,11 @@
 5) переименовать все id блоков в html-коде баннера на уникальные, например animation_container_banner_name
 6) в скрипте баннера в функции init() изменить id на прописанные в хтмл-коде
 7) в файле скрипта баннера изменить путь к картинкам (library properties)
+
+----------------------
+
+Пример кода "до" https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_before.txt
+Пример кода "gjckt" https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_after.txt
+
+Сравнение изменения кода (слева "до", справа "после")
+https://github.com/natabitrix/ustinka_banner_instruction/commit/9b090ab77ff293bef007e7dd847f330384702669?diff=split
