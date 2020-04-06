@@ -179,7 +179,6 @@ function init_svoydom_desktop()
 _init.push(init_svoydom_desktop);
 </script>
 
-
 <div id="animation_container_svoydom_desktop">
 	<canvas id="canvas_svoydom_desktop"></canvas>
 	<div id="dom_overlay_container_svoydom_desktop"></div>
