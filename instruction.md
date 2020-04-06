@@ -1,3 +1,5 @@
+<h2>Инструкция по баннерам</h2>
+
 <ol>
     <li>переписать пути к скриптам</li>
     <li>создать функцию с уникальным названием, напр. init_banner_name()</li>
@@ -10,8 +12,9 @@
 
 <hr>
 
-<a href="https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_before.txt" target="_blank">Пример кода "до"</a><br>
-<a href="https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_after.txt" target="_blank">Пример кода "после"</a>
+<h3>Пример</h3>
+<a href="https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_before.txt" target="_blank">⇒ Пример кода "до"</a><br>
+<a href="https://github.com/natabitrix/ustinka_banner_instruction/blob/master/banner_code_after.txt" target="_blank">⇒ Пример кода "после"</a>
 
 <br>
 <a href="https://github.com/natabitrix/ustinka_banner_instruction/commit/9b090ab77ff293bef007e7dd847f330384702669?diff=split" target="_blank">⇒ Сравнение изменения кода (слева "до", справа "после")</a>
